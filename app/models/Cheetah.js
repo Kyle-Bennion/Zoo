@@ -25,3 +25,4 @@ class Cheetah {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let chester = new Cheetah('Chester', 'yellow-black', 'M', 140, 'Carnivor', 'none', 'Solitary', 'Mammal')

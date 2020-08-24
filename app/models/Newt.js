@@ -25,3 +25,4 @@ class Newt {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let newton = new Newt('Knewton', 'Black', 'M', -1, 'Omnivore', 'Blub Blub', 'Timid', 'Amphibian')

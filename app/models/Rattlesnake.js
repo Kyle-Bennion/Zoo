@@ -25,3 +25,4 @@ class Rattlesnake {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let noiseyboi = new Rattlesnake('Ricky', 'Brown-Tan', 'F', 13, 'Carnivor', 'Rattle', 'Aggressive', 'Reptile')

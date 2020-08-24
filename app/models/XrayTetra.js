@@ -25,3 +25,4 @@ class XrayTetra {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let ray = new XrayTetra('Ray', 'Silver', 'M', -1, 'Herbivore', 'Blub Blub', 'Timid', 'Fish')

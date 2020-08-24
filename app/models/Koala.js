@@ -25,3 +25,4 @@ class Koala {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let koala = new Koala('Kerry', 'Grey', 'F', 32, 'Herbivore', 'None', 'Illusive-Timid', 'Mammal')

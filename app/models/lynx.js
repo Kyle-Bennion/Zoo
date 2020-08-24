@@ -25,3 +25,4 @@ class Lynx {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let lyn = new Lynx('Lyle', 'White-Spots', 'M', 49, 'Carnivor', 'Silent', 'Illusive-Aggressive', 'Mammal')

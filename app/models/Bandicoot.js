@@ -25,3 +25,4 @@ class Bandicoot {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let bandi = new Bandicoot('Brandon', 'Brown', 'M', 1, 'Omnivore', 'Squeak', 'Timid', 'Mammal')

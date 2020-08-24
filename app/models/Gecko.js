@@ -25,3 +25,4 @@ class Gecko {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let geek = new Gecko('Ghankis', 'Green or Brown', 'M', -1, 'Carnivor', 'Slurp', 'Timid', 'Reptile')

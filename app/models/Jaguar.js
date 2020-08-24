@@ -25,3 +25,4 @@ class Jaguar {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let jag = new Jaguar('Jerry', 'Black', 'M', 144, 'Carnivor', 'None', 'Aggressive-Solitary', 'Mammal')

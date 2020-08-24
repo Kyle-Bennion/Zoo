@@ -25,3 +25,4 @@ class Wallaby {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let wally = new Wallaby('Wally', 'Brown', 'M', 41, 'Herbivore', 'Hop Hop', 'Timid', 'Mammal')

@@ -25,3 +25,4 @@ class IndianElephant {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let elli = new IndianElephant('Elli', 'Grey-Brown', 'F', 11000, 'Herbivore', 'Stomp', 'Timid', 'Mammal')

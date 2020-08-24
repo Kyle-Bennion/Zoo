@@ -25,3 +25,4 @@ class Okapi {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let okee = new Okapi('Orion', 'Brown-Stripes', 'F', 508, 'Herbivore', 'None', 'Timid-Illusive', 'Mammal')

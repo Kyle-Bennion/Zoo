@@ -25,3 +25,4 @@ class HarpyEagle {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let harp = new HarpyEagle('Hellen', 'White-Grey', 'F', 29, 'Carnivor', 'Screech', 'Predatory- Timid', 'Bird')

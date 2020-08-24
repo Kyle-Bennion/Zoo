@@ -25,3 +25,4 @@ class Uakari {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let uakari = new Uakari('Uri', 'White', 'M', 7, 'Omnivore', 'Howl', 'Illusive-Aggressive', 'Mammal')

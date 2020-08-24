@@ -25,3 +25,4 @@ class Dingo {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let ding = new Dingo('Dani', 'Red-Brown', 'f', 41, 'Carnivor', 'Howl', 'Aggressive', 'Mammal')

@@ -25,3 +25,4 @@ class Zebra {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let zulu = new Zebra('Zane', 'Black-White', 'M', 890, 'Herbivore', 'Neigh', 'Illusive', 'Mammal')

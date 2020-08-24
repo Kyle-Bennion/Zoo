@@ -25,3 +25,4 @@ class Quokka {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let quora = new Quokka('Queen', 'Brown', 'F', 7, 'Herbivore', 'None', 'Timid-Illusive', 'Mammal')

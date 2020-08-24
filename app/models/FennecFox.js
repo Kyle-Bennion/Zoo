@@ -25,3 +25,4 @@ class FennecFox {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let frank = new FennecFox('Frank', 'White', 'M', 3, 'Omnivore', 'None', 'Timid', 'Mammal')

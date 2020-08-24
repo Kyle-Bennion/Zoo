@@ -25,3 +25,4 @@ class Eagle {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let eagle = new Eagle('Ellen', 'Brown-White', 'F', 14, 'Omnivore', 'Screech', 'Solitary', 'Bird')

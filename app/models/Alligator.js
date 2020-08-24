@@ -26,13 +26,6 @@ class Alligator {
   }
 
 
-
-
-
-
-
-
-
-
-
 }
+
+export let ally = new Alligator('Albon', 'Green', 'M', 443, 'Carnivor', 'Chomp', 'Aggressive', 'Reptile')

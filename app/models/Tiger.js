@@ -25,3 +25,4 @@ class Tiger {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let tigr = new Tiger('Tony', 'Orange-Stripes', 'M', 640, 'Carnivor', 'Purrr', 'Predatory-Illusive', 'Mammal')

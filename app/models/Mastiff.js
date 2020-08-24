@@ -25,3 +25,4 @@ class Mastiff {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let jax = new Mastiff('Murph', 'Blonde-Brindle', 'M', 218, 'Omnivore', 'Woof', 'Gentle-Kind', 'Mammal')

@@ -25,3 +25,4 @@ class Yak {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let yank = new Yak('Yanis', 'Black', 'F', 2200, 'Herbivore', 'Stomp', 'Timid-Defensive', 'Mammal')

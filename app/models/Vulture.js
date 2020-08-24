@@ -25,3 +25,4 @@ class Vulture {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let voltron = new Vulture('Valarie', 'Black', 'F', 49, 'Carnivor', 'Caww', 'Timid', 'Bird')

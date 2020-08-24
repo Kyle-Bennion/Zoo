@@ -25,3 +25,4 @@ class Pig {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let porky = new Pig('Porkey', 'Pink', 'M', 770, 'Omnivore', 'Oink', 'Timid-Aggressive', 'Mammal')

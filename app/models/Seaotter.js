@@ -25,3 +25,4 @@ class SeaOtter {
     alert(`the ${this.constructor.name} says${sound}!`)
   }
 }
+export let sally = new SeaOtter('Sami', 'Brown-Grey', 'F', 13, 'Omnivore', 'Crunch', 'Timid-Friendly', 'Mammal')
